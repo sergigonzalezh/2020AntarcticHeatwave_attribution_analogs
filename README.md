@@ -1,6 +1,6 @@
 # 2020AntarcticHeatwave_attribution_analogs.py
 
-This is the Jupyter notebooks required to reproduce the research published in *C---*.
+This is the Jupyter notebooks required to reproduce the research published in *Communications of Earth & Environment*.
 
 This repository is divided in different notebooks that:
   - 0a. Download the ERA5 datasets used in this research
@@ -13,7 +13,7 @@ This repository is divided in different notebooks that:
   - 3c. Compute and plot the flow analogs, and the temperature differences between the past and recent periods (Detrended)
 
 More information at: González-Herrero et. al. (2022)
-doi-to-be-assigned
+DOI: 10.1038/s43247-022-00450-5
 
 ## Versions and dependences
 
@@ -33,7 +33,7 @@ The script consists in a group of Jupyter notebooks programed in python 3.8. The
 
 ## How to cite
 
-If you modify this script for your research, please cite as:
+If you use or modify this script for your research, please cite as:
 
 Citation
 
