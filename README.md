@@ -13,7 +13,7 @@ This repository is divided in different notebooks that:
   - 3c. Compute and plot the flow analogs, and the temperature differences between the past and recent periods (Detrended)
 
 More information at: González-Herrero et. al. (2022)
-DOI: 10.1038/s43247-022-00450-5
+DOI: https://doi.org/10.1038/s43247-022-00450-5
 
 ## Versions and dependences
 
