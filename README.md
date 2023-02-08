@@ -34,8 +34,7 @@ The script consists in a group of Jupyter notebooks programed in python 3.8. The
 ## How to cite
 
 If you use or modify this script for your research, please cite as:
-
-Citation
+González-Herrero, S., Barriopedro, D., Trigo, R.M. et al. Climate warming amplified the 2020 record-breaking heatwave in the Antarctic Peninsula. Commun Earth Environ 3, 122 (2022). https://doi.org/10.1038/s43247-022-00450-5
 
 ## Contact
 If you have any question, please contact with Sergi at sergi.gonzalez@meteo.ub.edu
