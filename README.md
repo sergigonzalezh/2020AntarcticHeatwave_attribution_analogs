@@ -1,4 +1,4 @@
-# 2020AntarcticHeatwave_attribution_analogs.py
+# 2020AntarcticHeatwave_attribution_analogs
 
 This is the Jupyter notebooks required to reproduce the research published in *Communications of Earth & Environment*.
 
